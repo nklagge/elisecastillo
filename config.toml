@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Elise Castillo"
-baseurl = "http://elisecastillo.com/"
+baseurl = "https://elisecastillo.netlify.com/"
 theme = "hyde"
 
 [params]
