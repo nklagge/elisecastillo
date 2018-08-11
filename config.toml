@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "Elise Castillo"
+baseurl = "http://elisecastillo.com/"
+theme = "hyde"
+
+[params]
+  description = "Ph.D candidate @ UC Berkeley Graduate School of Education"
