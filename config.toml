@@ -4,4 +4,4 @@ baseurl = "https://elisecastillo.netlify.com/"
 theme = "hyde"
 
 [params]
-  description = "Ph.D candidate @ UC Berkeley Graduate School of Education"
+  description = "Ph.D in Education Policy"
