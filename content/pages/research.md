@@ -24,6 +24,9 @@ Scott, J., DeBray, E., Lubienski, C., La Londe, P. G., Castillo, E., & Owens, S.
 
 Kagan, S. L., Castillo, E., Gomez, R. E., & Gowani, S. (2013). Understanding and using early learning standards for young children globally. *International journal of child care and education policy, 7*(2), 5–23.
 
+#### Book Chapters  
+Scott, J., DeBray, E., Lubienski, C., Hanley, J., Castillo, E., & Hedges, S. L. (In press). The politics of charter school evidence in local context: The case of Los Angeles. In M. Berends, R. J. Waddington, & J. A. Schoenig (Eds.), *School choice at the crossroads: Research perspectives* (pp. 206-234). New York, NY: Routledge.
+
 #### Reports  
 Fuller, B., Castillo, E., Lee, J., & Ugarte, C. (2016). *Will $4 billion in new spending make a difference? Narrowing achievement gaps in Los Angeles: Progress and inequality as LAUSD implements local control funding.* Berkeley, CA: University of California.  
 
