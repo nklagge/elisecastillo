@@ -5,4 +5,4 @@ weight = 6
 +++
 
 **Email**  
-[elise.castillo@berkeley.edu](mailto:elise.castillo@berkeley.edu)
+[elise.castillo@trincoll.edu](mailto:elise.castillo@trincoll.edu)
