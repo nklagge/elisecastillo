@@ -1,7 +1,7 @@
 languageCode = "en-us"
-title = "Elise Castillo"
+title = "Elise Castillo, Ph.D"
 baseurl = "https://elisecastillo.netlify.com/"
 theme = "hyde"
 
 [params]
-  description = "Ph.D in Education Policy"
+  description = " "
