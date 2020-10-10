@@ -45,6 +45,42 @@
 {{ end }}
 
 
+<!-- Publications Section -->
+{{ $pubs_len := len (where .Site.Pages "Type" "publication") }}
+{{ if gt $pubs_len 0 }}
+<section {{ if eq $pubs_selected_len 0 }}id="publications" {{ end }}class="home-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1>{{ with .Site.Params.publications.title }}{{ . | markdownify }}{{ end }}</h1>
+                {{ with .Site.Params.publications.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+                {{ if gt $pubs_len .Site.Params.publications.count }}
+                <p class="view-all">
+                    <a href="{{ .Site.BaseURL }}publication/">
+                        {{ with .Site.Params.publications.str_all }}{{ . | markdownify }}{{ end }}
+                        <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+                {{ end }}
+            </div>
+            <div class="col-xs-12 col-md-8">
+                {{ if .Site.Params.publications.detailed_list }}
+                {{ range first .Site.Params.publications.count (where .Site.Pages "Type" "publication") }}
+                {{ partial "publication_li_detailed" . }}
+                {{ end }}
+                {{ else }}
+                <ul class="fa-ul">
+                    {{ range first .Site.Params.publications.count (where .Site.Pages "Type" "publication") }}
+                    {{ partial "publication_li_simple" . }}
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+
 <!-- Tutorials Section -->
 {{ $tutorials_len := len (where .Site.Pages "Type" "tutorial") }}
 {{ if gt $tutorials_len 0 }}
