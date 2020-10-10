@@ -1,24 +1,24 @@
-baseurl = "https://elisecastillo.com/"
-title = "Elise Castillo, Ph.D"
-copyright = "&copy; 2020 Elise Castillo"
+baseurl = "http://replace-this-with-your-website-url.com/"
+title = "Academic Theme"
+copyright = "&copy; 2016 Your Name"
 languageCode = "en-us"
-theme = "hugo-academicx"
+theme = "academic"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "spf13"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
 
 [params]
-  name = "Elise Castillo"
-  role = "Visiting Assistant Professor in Educational Studies and Public Policy"
-  organization = "Trinity College"
-  avatar = "ec.jpg"
-  email = "elise.castillo@trincoll.edu"
-  address = "Trinity College, Hartford, CT, USA"
-  #phone = "888 888 88 88"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
+  organization = "Stanford University"
+  avatar = "portrait.jpg"
+  email = "test@example.org"
+  address = "Stanford AI Lab, Stanford University, California, 90210, USA."
+  phone = "888 888 88 88"
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -37,29 +37,24 @@ googleAnalytics = ""
   # Biography section.
   # Section will only be displayed if `content/home/about.md` exists.
   [params.about]
-    #interests = ["Artificial Intelligence", "Computational Linguistics", "Information Retrieval"]
-    #str_interests = "Interests"
+    interests = ["Artificial Intelligence", "Computational Linguistics", "Information Retrieval"]
+    str_interests = "Interests"
     str_education = "Education"
 
     [[params.about.education]]
-      course = "Ph.D in Education Policy"
-      institution = "University of California, Berkeley"
+      course = "PhD in Artificial Intelligence"
+      institution = "Stanford University"
       year = 2012
 
     [[params.about.education]]
-      course = "MA in Education Policy"
-      institution = "University of California, Berkeley"
-      #year = 2009
+      course = "MEng in Artificial Intelligence"
+      institution = "Massachusetts Institute of Technology"
+      year = 2009
 
     [[params.about.education]]
-      course = "MS in Teaching (Adolescent English)"
-      institution = "Pace University"
-      #year = 2008
-      
-    [[params.about.education]]
-      course = "BA in English and Creative Writing"
-      institution = "Barnard College"
-      #year = 2008
+      course = "BSc in Artificial Intelligence"
+      institution = "Massachusetts Institute of Technology"
+      year = 2008
 
   # Selected Publications section.
   # Section will only be displayed if there are publications with `selected = true` in their `+++` preamble.
@@ -113,22 +108,22 @@ googleAnalytics = ""
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:elise.castillo@trincoll.edu"
+    link = "mailto:test@example.org"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/ecastillophd"
+    link = "//twitter.com/GeorgeCushen"
 
-#  [[params.social]]
-#    icon = "google-scholar"
-#    icon_pack = "ai"
-#    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-#  [[params.social]]
-#    icon = "github"
-#    icon_pack = "fa"
-#    link = "//github.com/gcushen"
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
@@ -144,15 +139,15 @@ googleAnalytics = ""
   url = "#publications"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
 
 [[menu.main]]
   name = "Teaching"
