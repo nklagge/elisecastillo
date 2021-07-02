@@ -24,9 +24,15 @@ To request a reference or recommendation letter, here is how to proceed:
 * In your email, include the name of the person or organization that might contact me, and a description and/or website about the position or program.
 
 **To request a recommendation letter:**  
+
 * Writing a recommendation letter requires more work from both me and you. <u>Please give me at least two weeks' advance notice.</u> I also encourage you to come to my office hours to discuss your plans with me.  
+
 * Email me your request, and include either:
+
   + A 1–2 paragraph response addressing the question, "Why are you and this program a good match for one another?" or
+
   + A draft of your personal statement for the application. Reading your words helps me to tailor my letter for your audience.
+
 * Please also send me your resume.
+
 * Include clear instructions about the deadline and where to send my letter. Some programs request that I email it directly to them, whereas others require you to complete an online form that automatically sends me a link to upload your letter.
