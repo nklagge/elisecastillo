@@ -1,6 +1,6 @@
 baseurl = "https://elisecastillo.com/"
 title = "Elise Castillo, Ph.D"
-copyright = "&copy; 2020 Elise Castillo"
+copyright = "&copy; 2021 Elise Castillo"
 languageCode = "en-us"
 theme = "hugo-academicx"
 
@@ -10,11 +10,15 @@ disqusShortname = ""
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
+# Allow raw html for HTML5 audio player
+[markup.goldmark.renderer]
+  unsafe= true
 
 [params]
   name = "Elise Castillo"
-  role = "Visiting Assistant Professor in Educational Studies and Public Policy"
+  role = "Assistant Professor of Educational Studies"
   organization = "Trinity College"
+  pronouns = "<a href=\"https://www.npr.org/2021/06/02/996319297/gender-identity-pronouns-expression-guide-lgbtq\">Gender pronouns:</a> she/her/<a href=\"https://www.tagalog.com/lessons/he-she-they-siya-sila.php\">siya</a>"
   avatar = "ec.jpg"
   email = "elise.castillo@trincoll.edu"
   address = "Trinity College, Hartford, CT, USA"
@@ -44,22 +48,18 @@ googleAnalytics = ""
     [[params.about.education]]
       course = "Ph.D in Education Policy"
       institution = "University of California, Berkeley"
-      year = 2012
 
     [[params.about.education]]
       course = "MA in Education Policy"
       institution = "University of California, Berkeley"
-      #year = 2009
 
     [[params.about.education]]
       course = "MS in Teaching (Adolescent English)"
       institution = "Pace University"
-      #year = 2008
       
     [[params.about.education]]
       course = "BA in English and Creative Writing"
       institution = "Barnard College"
-      #year = 2008
 
   # Selected Publications section.
   # Section will only be displayed if there are publications with `selected = true` in their `+++` preamble.
@@ -158,8 +158,13 @@ googleAnalytics = ""
   name = "Teaching"
   url = "#teaching"
   weight = 5
+  
+[[menu.main]]
+  name = "Advising"
+  url = "#advising"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
