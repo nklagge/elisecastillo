@@ -36,3 +36,5 @@ To request a reference or recommendation letter, here is how to proceed:
 * Please also send me your resume.
 
 * Include clear instructions about the deadline and where to send my letter. Some programs request that I email it directly to them, whereas others require you to complete an online form that automatically sends me a link to upload your letter.
+
+**Finally, please keep me posted on the outcome of your application!**

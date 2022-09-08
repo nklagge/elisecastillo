@@ -1,6 +1,6 @@
 baseurl = "https://elisecastillo.com/"
-title = "Elise Castillo, Ph.D"
-copyright = "&copy; 2021 Elise Castillo"
+title = "Elise Castillo, Ph.D."
+copyright = "&copy; 2022 Elise Castillo"
 languageCode = "en-us"
 theme = "hugo-academicx"
 

@@ -14,14 +14,16 @@ Hi, I'm Dr. Elise Castillo:
   <source src="/audio/intro.mp3" type="audio/mpeg">
 </audio>  
 
-<br>
+<br> 
 
-I am an Assistant Professor of Educational Studies at Trinity College in Hartford, Connecticut.
+I am an [Assistant Professor of Educational Studies](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1200195) at Trinity College in Hartford, Connecticut.
 
-I conduct qualitative research on school choice policies, focusing on their possibilities for, and limitations to, advancing racially equitable and democratic public education. As an interdisciplinary scholar, I employ concepts from political science, sociology, and critical policy analysis.  
+I conduct qualitative research on school choice policies, focusing on their possibilities for, and limitations to, advancing racially integrated, equitable, and democratic public education. As an interdisciplinary scholar, I employ concepts from political science, sociology, and critical policy analysis.
 
-My current research examines Asian American parents in Greater Hartford, Connecticut, who choose magnet schools for their children and the extent to which their choices are informed by racial integration considerations. In addition, with support from the [Spencer Foundation](https://www.spencer.org/news/announcing-our-covid-19-related-research-grants-awardees), I am working with Dr. Mira Debs and Dr. Molly Vollman Makris to study how the Covid-19 pandemic has impacted school integration organizing and activism in New York City, where school choice has exacerbated racial segregation over the last two decades. Other research examines progressive and community-based charter schools, the experiences of students of color with disabilities in charter schools, and the politics surrounding policymakers' use of research.  
+I have a particular interest in understanding how diverse Asian American students and families experience and make sense of school choice and integration policies. My work examines this topic in Greater Hartford, Connecticut, and New York City.
 
-My work has been published in *American Journal of Education*, *Education Policy Analysis Archives*, *Educational Policy*, *Peabody Journal of Education*, and *Urban Education*. 
+Related work examines the COVID-19 pandemic’s impact on school integration organizing in New York City, where school choice has exacerbated segregation over the last two decades; and how progressive and community-based charter schools can advance or hinder racial equity and integration.
+
+My work has been published in various academic journals, including *American Journal of Education*; *Education Policy Analysis Archives*; and *Race, Ethnicity, and Education*. In addition, I have shared my work with broader audiences in *The Connecticut Mirror* and the *Have You Heard* podcast.
 
 Prior to my academic career, I taught middle and high school English in New York City public schools.
