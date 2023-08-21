@@ -7,20 +7,20 @@ title: teaching
 weight: 11
 ---
 
-[**Analyzing Schools**](/Teaching/F20_Analyzing_Schools_Syllabus_09.01.20.pdf)  
+[**Analyzing Schools**](/Teaching/Sp22_EDUC200_Syllabus.pdf)  
 *I adapted this syllabus from prior Analyzing Schools syllabi from Drs. Stefanie Wong, Andrea Dyrness, and Jack Dougherty.*  
  
 This undergraduate course introduces the study of schooling within an interdisciplinary framework. From sociology and political science, we investigate the resources, structures, and social and political contexts influencing student opportunities and outcomes in the United States. From anthropology, we examine how classroom and school cultures shape experiences of teaching and learning. From psychology, we contrast theories of learning, both in the abstract and in practice. From philosophy, we examine competing educational goals and their underlying assumptions regarding human nature, justice, and democracy. In addition, a community learning component, where students observe and participate in nearby K–12 classrooms for three hours per week, is integrated with course readings and written assignments.  
  
-[**Education Reform, Past and Present**](/Teaching/Sp22_Educ_300_Syllabus_revised_01.25.22.pdf)    
+[**Education Reform, Past and Present**](/Teaching/Sp23_EDUC300_Syllabus.pdf)    
 *I adapted this syllabus from prior Education Reform, Past and Present, syllabi from Dr. Jack Dougherty.*  
  
 To what aims have education reformers aspired over time? When and how did schools become tools for divergent goals, such as reducing inequality, advancing capitalism, creating cultural uniformity, and liberating oppressed peoples? Why have reforms succeeded or failed to achieve these ends, and what were some of the unintended consequences? Over a century of education reforms, what has changed about public schooling, and what has remained the same? In this mid-level undergraduate course, we compare and contrast selected movements, both past and present, to reform elementary, secondary, and higher education in the United States from the nineteenth-century Common School era to the modern day. We examine how these reform movements facilitated or hindered equitable educational opportunity and access for minoritized communities.
  
-[**School Choice, Equity, and Democracy**](/Teaching/Sp21_EDUC304_Syllabus_04.29.21.pdf)  
+[**School Choice, Equity, and Democracy**](/Teaching/Sp23_EDUC304_Syllabus.pdf)  
 How do families choose schools for their children? How do school choice policies, such as those advancing charter schools, magnet schools, and vouchers, advance or constrain equitable access to education, particularly for poor families and families of color? What are the democratic aims of public education, and how do school choice policies advance or constrain these aims? In this advanced undergraduate elective, students investigate these questions while developing their qualitative research skills through interview and observation experiences. 
 
-[**Race, Class, and Educational Policy**](/Teaching/F21_Educ_309_syllabus_revised_11.22.21.pdf)
+[**Race, Class, and Educational Policy**](/Teaching/F22_EDUC309_Syllabus.pdf)
 
 *I adapted this syllabus from prior Race, Class, and Educational Policy syllabi from Drs. Jack Dougherty and Stefanie Wong.*
 

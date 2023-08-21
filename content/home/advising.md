@@ -11,6 +11,8 @@ weight: 20
 
 *Adapted, with thanks, from [Dr. Jack Dougherty's advice](https://jackdougherty.org/letter/) to students.
 
+**I am on leave during the 2023-2024 academic year. If you would like to request a reference or recommendation letter from me, you must email me your request AND send me the materials described below by <ins>October 1, 2023</ins>.**
+
 For students whom I have gotten to know as their professor and/or advisor, I am usually very willing to serve as a reference or to write a letter of recommendation for employment opportunities and graduate school. (If you are interested in the latter, I encourage you to read [Dr. Jack Dougherty’s excellent advice on graduate school](https://jackdougherty.org/grad-school/).) 
 
 That said, please think carefully about what I can and cannot address as your reference or in a recommendation letter. For example, if a potential employer wants specific information about your ability to work with young children, and I have never observed you doing so, I am probably not the best choice for you.

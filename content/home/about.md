@@ -16,7 +16,7 @@ Hi, I'm Dr. Elise Castillo:
 
 <br> 
 
-I am an [Assistant Professor of Educational Studies](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1200195) at Trinity College in Hartford, Connecticut.
+I am an [Assistant Professor of Educational Studies](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1200195) at Trinity College in Hartford, Connecticut. I am also a [2023-2024 National Academy of Education/Spencer Foundation Postdoctoral Fellow](https://naeducation.org/2023-naed-spencer-postdoctoral-fellows/).
 
 I conduct qualitative research on school choice policies, focusing on their possibilities for, and limitations to, advancing racially integrated, equitable, and democratic public education. As an interdisciplinary scholar, I employ concepts from political science, sociology, and critical policy analysis.
 
