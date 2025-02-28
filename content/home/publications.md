@@ -7,6 +7,8 @@ title: Peer-reviewed publications (selected)
 weight: 9
 ---
 
+Castillo, E., & Debs, M. (2025). [Asian Americans, the model minority narrative, and perspectives on school integration](https://link.springer.com/article/10.1007/s11256-025-00723-1). *The Urban Review.* https://doi.org/10.1007/s11256-025-00723-1
+
 Castillo, E. (2022). ["More of the diversity aspect and less of the desegregation aspect": Asian Americans and desegregation in metropolitan Hartford.](https://www.tandfonline.com/eprint/GSRBD6UI3PBENBPAP9PT/full?target=10.1080/13613324.2022.2033196) *Race, Ethnicity, and Education.*
 
 Debs, M., Makris, M. V., Castillo, E., Rodriguez, A.\*, Smith, A.\*, & Ingall, J. S.\* (2022). [Building civic capacity: The history and landscape of NYC integration activism, 2012–2021.](https://digitalrepository.trincoll.edu/cgi/viewcontent.cgi?article=1374&context=facpub) Teachers College Record. 124(6), 118–150. https://doi.org/10.1177/01614681221111426
